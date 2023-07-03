@@ -1,10 +1,4 @@
-<div align="center">
-	<img src="https://github.com/chiragxt1/chiragxt1/blob/master/intro.svg" alt="HI I'M, CHIRAG TILOOMALANI👋">
-</div>
-
 # I'm a Software Engineer & Full-time Computer Science Student.
-
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 I’m currently learning DSA and Full Stack Web Development
 
