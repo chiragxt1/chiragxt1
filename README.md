@@ -1,11 +1,3 @@
-# I'm a Software Engineer & Full-time Computer Science Student.
-
-I’m currently learning DSA and Full Stack Web Development
-
-You can view some of my projects below
-
-How to reach me: chiragxt1@hotmail.com
-
 ### Connect with me:
 
 [<img align="left" alt="Twitter" width="22px" src="./twitter.png" style="margin-right: 7px;" />][twitter]
